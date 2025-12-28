@@ -17,7 +17,7 @@ business decision-making through clear insights and interactive visualizations.
 - Built an interactive Power BI dashboard
 - Analyzed sales, profit, quantity, and trends
 
-- ## Key Insights
+## Key Insights
 - West region contributes ~32% of total sales
 - Profitability varies significantly by region and state
 - Sales show clear seasonal and time-based patterns
